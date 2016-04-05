@@ -16,8 +16,6 @@
     "require-dev": {
     },
     "autoload": {
-        "classmap": [
-        ],
         "psr-4": {
             "Mywin\\Requeue\\": "src"
         },
