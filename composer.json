@@ -1,7 +1,7 @@
 {
     "name": "mywin/requeue",
-    "description": "The Mywin Framework.",
-    "keywords": ["framework", "Mywin"],
+    "description": "The Requeue Task Mywin Framework.",
+    "keywords": ["framework", "mywin", "requeue", "ledon"],
     "license": "MIT",
     "type": "project",
     "require": {
