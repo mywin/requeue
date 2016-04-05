@@ -1,0 +1,45 @@
+{
+    "name": "mywin/requeue",
+    "description": "The Mywin Framework.",
+    "keywords": ["framework", "Mywin"],
+    "license": "MIT",
+    "type": "project",
+    "require": {
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "classmap": [
+        ],
+        "psr-4": {
+            "Mywin\\Requeue\\": "src"
+        },
+        "files": [
+        ]
+    },
+    "autoload-dev": {
+        "classmap": [
+        ]
+    },
+    "scripts": {
+        "post-root-package-install": [
+        ],
+        "post-create-project-cmd": [
+        ],
+        "post-install-cmd": [
+        ],
+        "post-update-cmd": [
+        ]
+    },
+    "config": {
+    },
+    "repositories": [
+        {
+            "packagist": false
+        },
+        {
+            "type": "composer",
+            "url": "http://packagist.cn"
+        }
+    ]
+}
