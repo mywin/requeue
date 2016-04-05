@@ -4,6 +4,12 @@
     "keywords": ["framework", "mywin", "requeue", "ledon"],
     "license": "MIT",
     "type": "project",
+    "authors": [{
+        "name":         "Ledon Huang",
+        "email":        "613329127@qq.com",
+        "homepage":     "http://www.613329127.com",
+        "role":         "Engineer"
+    }],
     "require": {
     },
     "require-dev": {
@@ -32,5 +38,17 @@
         ]
     },
     "config": {
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:mywin/requeue.git"
+        },
+        {
+            "packagist": {
+                "type": "composer",
+                "url": "https://packagist.phpcomposer.com"
+            }
+        }
+    ]
 }
