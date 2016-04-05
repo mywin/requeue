@@ -38,17 +38,5 @@
         ]
     },
     "config": {
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "git@github.com:mywin/requeue.git"
-        },
-        {
-            "packagist": {
-                "type": "composer",
-                "url": "https://packagist.phpcomposer.com"
-            }
-        }
-    ]
+    }
 }
