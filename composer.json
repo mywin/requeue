@@ -25,8 +25,9 @@
         ]
     },
     "autoload-dev": {
-        "classmap": [
-        ]
+        "psr-4": {
+            "Mywin\\Requeue\\": "src"
+        }
     },
     "scripts": {
         "post-root-package-install": [
